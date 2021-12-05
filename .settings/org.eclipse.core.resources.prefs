@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/bilgeadam/controller/BilgeAdamController.java=UTF-8
+encoding//src/main/java/com/bilgeadam/controller/PencilController.java=UTF-8
+encoding//src/main/java/com/bilgeadam/controller/StudentController.java=UTF-8
+encoding//src/main/java/com/bilgeadam/dto/StudentDto.java=UTF-8
+encoding//src/main/java/com/bilgeadam/entity/EticaretEntity.java=UTF-8
+encoding//src/main/java/com/bilgeadam/entity/StudentEntity.java=UTF-8
+encoding//src/main/java/com/bilgeadam/hql/_HqlQuery1.java=UTF-8
+encoding//src/main/java/com/bilgeadam/libraries/HibernateLibraries.java=UTF-8
+encoding//src/main/java/com/bilgeadam/main/StudentEntityMain.java=UTF-8
+encoding//src/main/java/com/bilgeadam/relation/oneToMany/OneToManyMain.java=UTF-8
+encoding//src/main/java/com/bilgeadam/utils/HibernateUtil.java=UTF-8
+separateDerivedEncodings=true
